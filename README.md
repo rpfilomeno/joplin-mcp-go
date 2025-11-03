@@ -41,6 +41,10 @@ Before you begin, ensure you have:
 
 ### Quick Start
 
+Download a precompiled binary from the [Releasea Page](https://github.com/rpfilomeno/joplin-mcp-go/releases)
+
+### Build From Source
+
 1. **Clone or download the project:**
 ```bash
 git clone <repository-url>
