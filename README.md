@@ -6,6 +6,8 @@ A Windows system tray application that exposes Joplin notes through the Model Co
 ![Go Version](https://img.shields.io/badge/go-1.21%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
 
+<img width="1280" height="640" alt="Copy of Untitled (1)" src="https://github.com/user-attachments/assets/c58c3c76-1664-4ffa-aea3-bc9860b05c11" />
+
 ## 🌟 Features
 
 - **🔔 System Tray Integration** - Lightweight, runs quietly in your Windows system tray
